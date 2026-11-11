@@ -194,3 +194,7 @@ All 41 test suites pass with full assertion integrity:
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Panduan kontribusi
+
+Baca [AGENTS.md](AGENTS.md) dan [aturan kontribusi bersama serta konfigurasi pribadi](docs/aturan-kontribusi.md). Integrasi portfolio developer bersifat opsional dan tidak diperlukan untuk checkout, tes, atau build.

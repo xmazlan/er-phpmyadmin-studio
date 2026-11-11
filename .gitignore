@@ -102,3 +102,12 @@ out/
 
 # Tanstack
 .tanstack/
+
+# Preferensi, catatan, dan integrasi pribadi developer
+/AGENTS.local.md
+/.agents/local/
+/.agents/skills/activity-sync/
+.ACTIVITY_PROJECT_KEYS
+.env.*
+!.env.example
+!.env.*.example

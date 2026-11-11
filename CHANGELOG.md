@@ -2,6 +2,12 @@
 
 Semua perubahan penting pada aplikasi **xphpMyAdmin Desktop** didokumentasikan dalam berkas ini. Format pencatatan mengacu pada prinsip [Keep a Changelog](https://keepachangelog.com/id/1.0.0/) dan [Semantic Versioning](https://semver.org/).
 
+## [Unreleased]
+
+### Dokumentasi pengembangan
+- Memisahkan aturan kontribusi bersama dari integrasi portfolio pribadi; pencatatan rilis tidak bergantung pada akun atau skill developer tertentu.
+- Melepas gitlink skill pribadi yang tidak mempunyai deklarasi URL dan mengabaikan konfigurasi lokalnya agar checkout rekursif dapat berjalan.
+
 ---
 
 ## [1.4.2] - 2026-10-30
